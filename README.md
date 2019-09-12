@@ -1,4 +1,4 @@
-# STAT545-participation
+# STAT545A participation
 
 This is a repository for files and assignments from STAT545, a course comprising:
 
