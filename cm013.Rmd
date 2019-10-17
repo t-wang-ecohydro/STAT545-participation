@@ -102,11 +102,11 @@ Great resource for selecting the right plot: https://www.data-to-viz.com/ ; enco
 
 We will be filling these principles in together as a class
 
-1. 
-1. 
-1. 
-1. 
-1. 
+1. apply principle of proportional ink, e.g. don't truncate y-axis
+1. maintain high data-to-ink ratio
+1. update axis labels and titles
+1. choose scale & graph type carefully
+1. use accessible & easily readable colors
 
 ### Make a great plot worse
 
