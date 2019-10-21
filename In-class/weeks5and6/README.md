@@ -1,4 +1,4 @@
-# In-class participation, Weeks 3 and 4
+# In-class participation, Weeks 5 and 6
 
 This folder contains files generated from in-class exercises for Weeks 5 and 6, comprising Classes 9 - 12.
 
