@@ -2,11 +2,11 @@
 title: "Tibble Exploration"
 always_allow_html: yes
 output:
-  pdf_document:
-    toc: yes
   html_document:
     number_sections: yes
     theme: cerulean
+    toc: yes
+  pdf_document:
     toc: yes
 ---
 ```{r load, warning=FALSE, echo=FALSE}
@@ -15,7 +15,7 @@ library(gapminder)
 library(DT)
 ```
 
-##Print out gapminder data:
+## Print out gapminder data:
 ```{r}
 gapminder
 ```
