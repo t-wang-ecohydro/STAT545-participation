@@ -1,4 +1,4 @@
-# In-class participation files
+# In-class participation, Weeks 1 and 2
 This folder contains files generated from in-class exercises for Weeks 1 and 2, comprising Classes 1 - 4.
 
 ## Web preview
